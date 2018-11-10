@@ -1,0 +1,4 @@
+
+osquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(ÂÆôŠýÿÿÿÿ
+ssquid:S1192"YUse already-defined constant 'GRANT_TYPE_PASSWORD' instead of duplicating its value here.(ÙùŽêÿÿÿÿÿ
+gsquid:UselessImportCheck"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ

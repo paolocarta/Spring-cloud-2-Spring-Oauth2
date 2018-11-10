@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-cloud/config/target/classes/META-INF/maven/cn.zhangxd/config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/config/target/classes/META-INF/maven/cn.zhangxd/config/pom.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/gateway/target/classes/META-INF/maven/cn.zhangxd/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/gateway/target/classes/META-INF/maven/cn.zhangxd/gateway/pom.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/registry/target/classes/META-INF/maven/cn.zhangxd/registry/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/registry/target/classes/META-INF/maven/cn.zhangxd/registry/pom.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/auth-service/target/classes/META-INF/maven/cn.zhangxd/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/auth-service/target/classes/META-INF/maven/cn.zhangxd/auth-service/pom.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/svca-service/target/classes/META-INF/maven/cn.zhangxd/svca-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/svca-service/target/classes/META-INF/maven/cn.zhangxd/svca-service/pom.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/svcb-service/target/classes/META-INF/maven/cn.zhangxd/svcb-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cloud/svcb-service/target/classes/META-INF/maven/cn.zhangxd/svcb-service/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auth-service (1)" />
+        <module name="auth-service (2)" />
+        <module name="auth-service (3) (cn.zhangxd)" />
+        <module name="config (1)" />
+        <module name="config (2)" />
+        <module name="config (3) (cn.zhangxd)" />
+        <module name="gateway (1)" />
+        <module name="gateway (2)" />
+        <module name="gateway (3) (cn.zhangxd)" />
+        <module name="registry (1)" />
+        <module name="registry (2)" />
+        <module name="registry (3) (cn.zhangxd)" />
+        <module name="svca-service (1)" />
+        <module name="svca-service (2)" />
+        <module name="svca-service (3) (cn.zhangxd)" />
+        <module name="svcb-service (1)" />
+        <module name="svcb-service (2)" />
+        <module name="svcb-service (3) (cn.zhangxd)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service (3)" target="1.8" />
+      <module name="config (3)" target="1.8" />
+      <module name="gateway (3)" target="1.8" />
+      <module name="registry (3)" target="1.8" />
+      <module name="svca-service (3)" target="1.8" />
+      <module name="svcb-service (3)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

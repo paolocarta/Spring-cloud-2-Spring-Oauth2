@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/auth-service/target/classes/META-INF/maven/cn.zhangxd/auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/config/target/classes/META-INF/maven/cn.zhangxd/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/gateway/target/classes/META-INF/maven/cn.zhangxd/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/registry/target/classes/META-INF/maven/cn.zhangxd/registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/svca-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/svca-service/target/classes/META-INF/maven/cn.zhangxd/svca-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/svcb-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/svcb-service/target/classes/META-INF/maven/cn.zhangxd/svcb-service" charset="UTF-8" />
+  </component>
+</project>
